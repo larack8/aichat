@@ -22,13 +22,13 @@ Use https://github.com/dgkae/dgk_lost_conv as training corpus. The chinese sente
 
 1.聊天群：
 
-![](data/jinqianli_qqun.jpg)
+![](data/jinqianli_qqun.png)
 
 2.公众号
 
-![](data/jinqianli_gzh.jpg)
+![](data/jinqianli_gzh.png)
 
 3.知乎
 
-![](data/jinqianli_zhihu.jpg)
+![](data/jinqianli_zhihu.png)
 
